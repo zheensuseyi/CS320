@@ -13,6 +13,9 @@
   
   
  2. How do I interpret user needs and incorporate them into a program?
+  
+  
+  
   In this project, we had a rubric that asked us to implement certain requirements and test said requirements using Junit to ensure that it works. The way I interpreted these user needs and incorporated them was by following the rubric extremely carefully and making sure my program was perfect before submission.
   
  
@@ -21,4 +24,7 @@
  
  
  3. How do I approach designing software?
+  
+  
+  
   What you put in is what you get out. I approach designing software with that philosophy in mind and take my time to learn it the right way not the fast way. I took my time with this project and it paid off in the end.
